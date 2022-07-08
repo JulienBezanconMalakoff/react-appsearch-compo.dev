@@ -14,7 +14,7 @@ import { Rating } from 'react-simple-star-rating';
 // connector App Search
 const connector = new AppSearchAPIConnector({
   searchKey: "search-r4uskji8opxzj21mkemyctys",
-  engineName: "thales-canton",
+  engineName: "merge-thales-canton-qpm-toutella",
   endpointBase: "https://search.ent.eu-west-3.aws.elastic-cloud.com"
 });
 
@@ -28,10 +28,10 @@ const config = {
     search_fields: {
       // section search field for searchbar
       title: {
-        weight: 10
+        weight: 1
       },
       content: {
-        weight: 7
+        weight: 1
       }
     },
     result_fields: {

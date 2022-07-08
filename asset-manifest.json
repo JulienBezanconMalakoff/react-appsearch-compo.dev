@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-appsearch-compo.dev/static/css/main.42ad3980.css",
-    "main.js": "/react-appsearch-compo.dev/static/js/main.0bb9f2c3.js",
+    "main.js": "/react-appsearch-compo.dev/static/js/main.34a7a18c.js",
     "static/media/searchUi.svg": "/react-appsearch-compo.dev/static/media/searchUi.0a7c5464340c2766b0b4b67f56d6e059.svg",
     "index.html": "/react-appsearch-compo.dev/index.html",
     "main.42ad3980.css.map": "/react-appsearch-compo.dev/static/css/main.42ad3980.css.map",
-    "main.0bb9f2c3.js.map": "/react-appsearch-compo.dev/static/js/main.0bb9f2c3.js.map"
+    "main.34a7a18c.js.map": "/react-appsearch-compo.dev/static/js/main.34a7a18c.js.map"
   },
   "entrypoints": [
     "static/css/main.42ad3980.css",
-    "static/js/main.0bb9f2c3.js"
+    "static/js/main.34a7a18c.js"
   ]
 }
